@@ -1,4 +1,3 @@
 # git-practice
   ## Участники: 
-  Turana 
-  Коллега
+  Turana 23
